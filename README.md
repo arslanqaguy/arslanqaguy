@@ -14,23 +14,3 @@ I have strong knowledge of the following technologies:
 • Cross-browser testing tools: Browserstack
 • Operation Systems: All Windows version, basic knowledge in Linux and Macintosh
 • Microsoft Office: Word, Excel, PowerPoint, Access, Outlook: 2007 -- up to the latest versions.
-
-My devices collection:
-MacBook Pro M1 - 13: macOS Big Sur
-Chromebook 14: Chrome OS
-PC: Windows 10
-MacBook Pro - 15: OS High Sierra
-
-iOS:
-iPhone 11 Pro MAX
-iPhone 7
-iPhone 7 plus
-iPad 5th Generation
-
-Android:
-Samsung Galaxy S9+
-Samsung Galaxy A10
-Galaxy A50
-Galaxy A01
-Galaxy A32
-Galaxy A51
