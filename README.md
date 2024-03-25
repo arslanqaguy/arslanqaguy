@@ -1,8 +1,8 @@
-Hi! I'm Muhammad and I am a Software QA Engineer with strong QA skills and with over 6 years of total experience in IT worked in Agile and Scrum environments for the last 6 years.
+Hi! I'm Muhammad and I am a Software QA Engineer with strong QA skills and over 8 years of total experience in IT worked in Agile and Scrum environments for the last 6 years.
 
-✅ I have a lot of real test environments (Windows PC, Mac M1, Android phones and tablets, iOS phones and tablets, Windows phones), enterprise account on browserstack.com
+I have a lot of real test environments (Windows PC, Mac M1, Android phones and tablets, iOS phones and tablets, Windows phones), an enterprise account on browserstack.com
 
-✅ Types of Business Applications and Websites, I have tested so far: Business intelligence, Online Strategic Marketing systems, CRM applications, e-commerce, medical software, Real estate, Legal and banking services, integration with social networks, and especially SAAS since most of my previous work is SAAS platform.
+Types of Business Applications and Websites, I have tested so far: Business intelligence, Online Strategic Marketing systems, CRM applications, e-commerce, medical software, Real estate, Legal and banking services, integration with social networks, and especially SAAS since most of my previous work is SAAS platform.
 
 I have strong knowledge of the following technologies:
 • Applications: Web, desktop, and mobile applications.
